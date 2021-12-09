@@ -49,9 +49,9 @@ export default function Navbar() {
                             Home
                         </a>
                     </NavLink>
-                    <NavLink href="/work">
+                    <NavLink href="/projects">
                         <a className="w-full sm:w-auto flex-none hover:text-white duration-200 text-md py-2 rounded mr-auto mr-0@m">
-                            Work
+                            Projects
                         </a>
                     </NavLink>
                     <NavLink href="/about">

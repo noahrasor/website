@@ -8,21 +8,21 @@ export default function Home() {
     <div>
         <Head>
             <meta charSet="UTF-8"/>
-            <title>Robert S.</title>
-            <meta name="description" content="A developer and tech enthusiast from the Netherlands." />
-            <meta name="keywords" content="HTML,CSS,JavaScript,Python,SQL,MySQL,PostgreSQL,MongoDB,Redis,Flask,Tailwind,TailwindCSS,Bootstrap" />
-            <meta name="author" content="Robert Stokreef" />
+            <title>Zackery.</title>
+            <meta name="description" content="I'VE OFFICIALLY BECAME YOUR BEST FRIEND!" />
+            <meta name="keywords" content="Music,Friends,Family,Singing,Stage,Besties,BestFriends,Personal" />
+            <meta name="author" content="Zackery" />
             <link rel="icon" href="/favicon.ico" />
-            <meta property="og:title" content="Robert S." />
-            <meta property="og:description" content="A developer and tech enthusiast from the Netherlands." />
-            <meta property="og:url" content="https://robert-s.dev/" />
-            <meta property="og:image" content="https://robert-s.dev/logo.jpg" />
+            <meta property="og:title" content="Zackery." />
+            <meta property="og:description" content="I'm trying my best to do everything I can in life." />
+            <meta property="og:url" content="https://zackeryjs.xyz/" />
+            <meta property="og:image" content="https://zackeryjs.xyz/logo.jpg" />
             <meta name="theme-color" content="#F43F5E" />
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:site" content="@ThatGuy5275" />
-            <meta name="twitter:title" content="Robert S." />
-            <meta name="twitter:description" content="A developer and tech enthusiast from the Netherlands."/>
-            <meta name="twitter:image" content="https://robert-s.dev/logo.jpg"/>
+            <meta name="twitter:site" content="@skyystw" />
+            <meta name="twitter:title" content="Zackery." />
+            <meta name="twitter:description" content="Just your new best friend."/>
+            <meta name="twitter:image" content="https://zackeryjs.xyz/logo.jpg"/>
         </Head>
 
         <div className="flex flex-col min-h-screen">
@@ -32,10 +32,10 @@ export default function Home() {
                     <div className="container flex mx-auto justify-center">
                         <motion.div initial={{ opacity: 0 }} animate={{ opacity: [0, 1] }} transition={{ duration: 0.5 }}>
                             <h1 className="md:text-6xl text-3xl font-bold">
-                              Hi there, I'm <span className="text-rose-500">Robert S.</span>
+                              Hi there, I'm <span className="text-rose-500">Zackery!</span>
                             </h1>
                             <p className="text-gray-200 text-lg font-medium">
-                                Developer & Tech enthusiast
+                                your new Best Friend. :)
                             </p>
                         </motion.div>
                     </div>

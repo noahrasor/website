@@ -8,21 +8,21 @@ export default function About() {
         <div>
             <Head>
                 <meta charSet="UTF-8"/>
-                <title>Robert S. - About me</title>
-                <meta name="description" content="A developer and tech enthusiast from the Netherlands." />
-                <meta name="keywords" content="HTML,CSS,JavaScript,Python,SQL,MySQL,PostgreSQL,MongoDB,Redis,Flask,Tailwind,TailwindCSS,Bootstrap" />
-                <meta name="author" content="Robert Stokreef" />
+                <title>Zackery. - About me</title>
+                <meta name="description" content="I'VE OFFICIALLY BECAME YOUR BEST FRIEND!" />
+                <meta name="keywords" content="Music,Friends,Family,Singing,Stage,Besties,BestFriends,Personal" />
+                <meta name="author" content="Zackery." />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="Robert S. - About me" />
-                <meta property="og:description" content="A developer and tech enthusiast from the Netherlands." />
-                <meta property="og:url" content="https://robert-s.dev/about" />
-                <meta property="og:image" content="https://robert-s.dev/logo.jpg" />
+                <meta property="og:title" content="Zackery. - About me" />
+                <meta property="og:description" content="I'm trying my best to do everything I can in life." />
+                <meta property="og:url" content="https://zackeryjs.xyz/about" />
+                <meta property="og:image" content="https://zackeryjs.xyz/logo.jpg" />
                 <meta name="theme-color" content="#F43F5E" />
                 <meta name="twitter:card" content="summary" />
-                <meta name="twitter:site" content="@ThatGuy5275" />
-                <meta name="twitter:title" content="Robert S. - About me" />
-                <meta name="twitter:description" content="A developer and tech enthusiast from the Netherlands."/>
-                <meta name="twitter:image" content="https://robert-s.dev/logo.jpg"/>
+                <meta name="twitter:site" content="@skysstw" />
+                <meta name="twitter:title" content="Zackery. - About Me" />
+                <meta name="twitter:description" content="Just your new best friend."/>
+                <meta name="twitter:image" content="https://zackeryjs.xyz/logo.jpg"/>
             </Head>
 
             <div className="flex flex-col min-h-screen">
@@ -37,29 +37,8 @@ export default function About() {
                                 <div className="container lg:w-3/5 w-11/12 mx-auto mt-4">
                                     <div className="text-left md:text-justify space-y-6 text-lg font-medium text-gray-200">
                                         <p>
-                                            Hey, I'm Robert - a full-stack developer from the Netherlands with approximately three years of back-end and five years of front-end development experience. Nowadays, I mainly use Next.js, TailwindCSS and Python for my projects, but I have used different tools and frameworks in the past. I also love the open-source community, <a className="text-gray-200 underline" href="https://github.com/Wallvon/website" target="_blank" rel="noopener noreferrer">and this website is open-source too :)</a>. My coding knowledge is mostly based on many years of experimenting and trying, and I am happy to have made it this far.
+                                            Hey, I'm Zackery - I am a young "highschooler" trying my best to pursue Content Creation and Music. It's always been my dream to be able to sing on a stage, and when I get every chance I have, whether may it be on a real stage, or even on my Twitch channel. I take my chances. Music has always been a releif in me for years, same thing with family and friends. I have 2 projects I am working on, ClumsyHosting and Electronomy eSports. Both are which, coming out in 2022. So please stay tuned for them :D
                                         </p>
-                                        <div className="space-y-2">
-                                            <p>
-                                                I can use the following technologies/frameworks mostly fluently:
-                                            </p>
-                                            <ul className="list-disc pl-4">
-                                                <li>HTML, CSS & JS</li>
-                                                <li>TailwindCSS, Bootstrap, UIkit & Cirrus UI</li>
-                                                <li>Python</li>
-                                                <li>Flask & similar frameworks (like Sanic)</li>
-                                                <li>MySQL, PostgreSQL, MongoDB, Redis</li>
-                                            </ul>
-                                            <p>
-                                                And I am currently learning the following technologies/frameworks:
-                                            </p>
-                                            <ul className="list-disc pl-4">
-                                                <li>Go</li>
-                                                <li>Rust</li>
-                                                <li>React/Next.js</li>
-                                                <li>Docker</li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                             </motion.div>

@@ -8,21 +8,21 @@ export default function Work() {
         <div>
             <Head>
                 <meta charSet="UTF-8"/>
-                <title>Robert S. - My work</title>
-                <meta name="description" content="A developer and tech enthusiast from the Netherlands." />
-                <meta name="keywords" content="HTML,CSS,JavaScript,Python,SQL,MySQL,PostgreSQL,MongoDB,Redis,Flask,Tailwind,TailwindCSS,Bootstrap" />
-                <meta name="author" content="Robert Stokreef" />
+                <title>Zackery. - My work</title>
+                <meta name="description" content="I'VE OFFICIALLY BECAME YOUR BEST FRIEND!" />
+                <meta name="keywords" content="Music,Friends,Family,Singing,Stage,Besties,BestFriends,Personal" />
+                <meta name="author" content="Zackery." />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="Robert S. - My work" />
-                <meta property="og:description" content="A developer and tech enthusiast from the Netherlands." />
-                <meta property="og:url" content="https://robert-s.dev/work" />
-                <meta property="og:image" content="https://robert-s.dev/logo.jpg" />
+                <meta property="og:title" content="Zackery. - My work" />
+                <meta property="og:description" content="I'm trying my best to do everything I can in life." />
+                <meta property="og:url" content="https://zackeryjs.xyz/work" />
+                <meta property="og:image" content="https://zackeryjs.xyz/logo.jpg" />
                 <meta name="theme-color" content="#F43F5E" />
                 <meta name="twitter:card" content="summary" />
-                <meta name="twitter:site" content="@ThatGuy5275" />
-                <meta name="twitter:title" content="Robert S. - My work" />
-                <meta name="twitter:description" content="A developer and tech enthusiast from the Netherlands."/>
-                <meta name="twitter:image" content="https://robert-s.dev/logo.jpg"/>
+                <meta name="twitter:site" content="@skyystw" />
+                <meta name="twitter:title" content="Zackery. - My work" />
+                <meta name="twitter:description" content="Just your new best friend."/>
+                <meta name="twitter:image" content="https://zackeryjs.xyz/logo.jpg"/>
             </Head>
 
             <div className="flex flex-col min-h-screen">
@@ -43,7 +43,7 @@ export default function Work() {
                                     <div className="absolute h-full w-full p-20 z-20">
                                         <div className="flex items-center justify-center h-full w-full p-4">
                                             <h1 className="md:text-6xl text-3xl font-bold text-center">
-                                                Coming soon
+                                                ClumsyHosting
                                             </h1>
                                         </div>
                                     </div>
@@ -71,7 +71,7 @@ export default function Work() {
                                             </div>
                                         </div>
                                         <div className="flex-grow space-y-2">
-                                            <h1 className="text-3xl font-bold">Lorem Ipsum</h1>
+                                            <h1 className="text-3xl font-bold">Electronomy eSports</h1>
                                             <p className="text-gray-400 py- text-justify">
                                                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
                                             </p>
