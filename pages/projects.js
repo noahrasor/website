@@ -8,7 +8,7 @@ export default function Work() {
         <div>
             <Head>
                 <meta charSet="UTF-8"/>
-                <title>Zackery. - My work</title>
+                <title>Zackery. - My Work</title>
                 <meta name="description" content="I'VE OFFICIALLY BECAME YOUR BEST FRIEND!" />
                 <meta name="keywords" content="Music,Friends,Family,Singing,Stage,Besties,BestFriends,Personal" />
                 <meta name="author" content="Zackery." />
@@ -20,7 +20,7 @@ export default function Work() {
                 <meta name="theme-color" content="#F43F5E" />
                 <meta name="twitter:card" content="summary" />
                 <meta name="twitter:site" content="@skyystw" />
-                <meta name="twitter:title" content="Zackery. - My work" />
+                <meta name="twitter:title" content="Zackery. - My Work" />
                 <meta name="twitter:description" content="Just your new best friend."/>
                 <meta name="twitter:image" content="https://zackeryjs.xyz/logo.jpg"/>
             </Head>
