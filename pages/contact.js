@@ -8,7 +8,7 @@ export default function Contact() {
         <div>
             <Head>
                 <meta charSet="UTF-8"/>
-                <title>Zackery. - Contact me</title>
+                <title>Zackery. - Contact Me</title>
                 <meta name="description" content="I'VE OFFICIALLY BECAME YOUR BEST FRIEND!" />
                 <meta name="keywords" content="Music,Friends,Family,Singing,Stage,Besties,BestFriends,Personal" />
                 <meta name="author" content="Zackery" />
@@ -33,7 +33,7 @@ export default function Contact() {
                             <motion.div initial={{ opacity: 0 }} animate={{ opacity: [0, 1] }} transition={{ duration: 0.5 }}>
                                 <div className="text-center">
                                     <h1 className="md:text-6xl text-3xl font-bold">
-                                        Contact <span className="text-rose-500">me</span>
+                                        Contact <span className="text-rose-500">Me</span>
                                     </h1>
                                     <p className="text-gray-200 text-lg font-medium px-4">
                                         Want to get in touch, or just want to have a chat? I'd love too! Lets do it. :)
