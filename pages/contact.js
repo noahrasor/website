@@ -56,7 +56,7 @@ export default function Contact() {
                                             <span className='tooltip bg-gray-800 text-white rounded shadow-lg'>Click to copy</span>
                                             <p className="text-white text-xl overflow-ellipsis">zack;#0997</p>
                                         </a>
-                                        <a href="https://twitter.com/skyystw" className="bg-gray-800 text-white p-4 text-center rounded gap-3" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://twitter.com/skysstw" className="bg-gray-800 text-white p-4 text-center rounded gap-3" target="_blank" rel="noopener noreferrer">
                                             <svg fill="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="mx-auto max-h-12"
                                                  viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <title>Twitter</title>
