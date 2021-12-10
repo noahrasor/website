@@ -37,7 +37,7 @@ export default function About() {
                                 <div className="container lg:w-3/5 w-11/12 mx-auto mt-4">
                                     <div className="text-left md:text-justify space-y-6 text-lg font-medium text-gray-200">
                                         <p>
-                                            Hey, I'm Zackery - I am a young "highschooler" trying my best to pursue Content Creation and Music. It's always been my dream to be able to sing on a stage, and when I get every chance I have, whether may it be on a real stage, or even on my Twitch channel. I take my chances. Music has always been a releif in me for years, same thing with family and friends. I have 2 projects I am working on, ClumsyHosting and Electronomy eSports. Both are which, coming out in 2022. So please stay tuned for them :D
+                                            Hey, I'm Zackery - I am a young "highschooler" trying my best to pursue Content Creation and Music. It's always been my dream to be able to sing on a stage, and when I get every chance I have, whether may it be on a real stage, or even on my Twitch channel. I take my chances. Music has always been a relief in me for years, same thing with family and friends. I have 2 projects I am working on, ClumsyHosting and Electronomy eSports. Both are which, coming out in 2022. So please stay tuned for them :D
                                         </p>
                                     </div>
                                 </div>
