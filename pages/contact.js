@@ -17,7 +17,7 @@ export default function Contact() {
                 <meta property="og:description" content="N/A" />
                 <meta property="og:url" content="https://raz3r12.xyz/contact" />
                 <meta property="og:image" content="https://raz3r12.xyz/logo.jpg" />
-                <meta name="theme-color" content="#F43F5E" />
+                <meta name="theme-color" content="#09F3C8" />
                 <meta name="twitter:card" content="summary" />
                 <meta name="twitter:site" content="@Coming Soon" />
                 <meta name="twitter:title" content="Raz3r12. - Contact me" />
