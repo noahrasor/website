@@ -38,8 +38,6 @@ export default function About() {
                                     <div className="text-left md:text-justify space-y-6 text-lg font-medium text-gray-200">
                                         <p>
                                             Hey, I'm Raz3r12 - I am 21, I love coding bots, developing minecraft servers. I love working for people.
-                                            
-                                            Links: Coming Soon
                                         </p>
                                     </div>
                                 </div>
