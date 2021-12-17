@@ -8,7 +8,7 @@ export default function Contact() {
         <div>
             <Head>
                 <meta charSet="UTF-8"/>
-                <title>Zackery. - Contact Me</title>
+                <title>Raz3r12. - Contact Me</title>
                 <meta name="description" content="I love making new friends." />
                 <meta name="keywords" content="Development, Gaming, Traveling, Music, Coding" />
                 <meta name="author" content="Raz3r12" />
