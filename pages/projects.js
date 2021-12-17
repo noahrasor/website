@@ -8,21 +8,21 @@ export default function Work() {
         <div>
             <Head>
                 <meta charSet="UTF-8"/>
-                <title>Zackery. - My Work</title>
+                <title>Raz3r12. - My Work</title>
                 <meta name="description" content="I'VE OFFICIALLY BECAME YOUR BEST FRIEND!" />
-                <meta name="keywords" content="Music,Friends,Family,Singing,Stage,Besties,BestFriends,Personal" />
-                <meta name="author" content="Zackery." />
+                <meta name="keywords" content="Music,Friends,Family" />
+                <meta name="author" content="Raz3r12." />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="Zackery. - My Work" />
+                <meta property="og:title" content="Raz3r12. - My Work" />
                 <meta property="og:description" content="I'm trying my best to do everything I can in life." />
-                <meta property="og:url" content="https://zackeryjs.xyz/work" />
-                <meta property="og:image" content="https://zackeryjs.xyz/logo.jpg" />
+                <meta property="og:url" content="https://raz3r12.xyz/work" />
+                <meta property="og:image" content="https://raz3r12.xyz/logo.jpg" />
                 <meta name="theme-color" content="#F43F5E" />
                 <meta name="twitter:card" content="summary" />
-                <meta name="twitter:site" content="@skyystw" />
-                <meta name="twitter:title" content="Zackery. - My Work" />
+                <meta name="twitter:site" content="@coming soon" />
+                <meta name="twitter:title" content="Raz3r12. - My Work" />
                 <meta name="twitter:description" content="Just your new best friend."/>
-                <meta name="twitter:image" content="https://zackeryjs.xyz/logo.jpg"/>
+                <meta name="twitter:image" content="https://raz3r12.xyz/logo.jpg"/>
             </Head>
 
             <div className="flex flex-col min-h-screen">
@@ -49,7 +49,7 @@ export default function Work() {
                                     </div>
                                     <div className="w-full grid gap-20 grid-cols-1 md:grid-cols-2 blur md:p-16 p-4">
                                         <div className="flex-grow space-y-2">
-                                            <h1 className="text-3xl font-bold">ClumsyHosting</h1>
+                                            <h1 className="text-3xl font-bold">ChillHosting</h1>
                                             <p className="text-gray-400 py- text-justify">
                                                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
                                             </p>
@@ -71,7 +71,7 @@ export default function Work() {
                                             </div>
                                         </div>
                                         <div className="flex-grow space-y-2">
-                                            <h1 className="text-3xl font-bold">Electronomy eSports</h1>
+                                            <h1 className="text-3xl font-bold">TheChillRealm</h1>
                                             <p className="text-gray-400 py- text-justify">
                                                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
                                             </p>
