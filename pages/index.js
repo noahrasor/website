@@ -17,7 +17,7 @@ export default function Home() {
             <meta property="og:description" content="I'm trying my best to do everything I can in life." />
             <meta property="og:url" content="https://raz3r12.xyz/" />
             <meta property="og:image" content="https://raz3r12.xyz/logo.jpg" />
-            <meta name="theme-color" content="#F43F5E" />
+            <meta name="theme-color" content="#09F3C8" />
             <meta name="twitter:card" content="summary" />
             <meta name="twitter:site" content="@Coming Soon" />
             <meta name="twitter:title" content="Raz3r12." />
