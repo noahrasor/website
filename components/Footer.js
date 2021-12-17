@@ -31,7 +31,7 @@ export default function Footer() {
                         </svg>
                         <span className='tooltip bg-gray-800 text-white rounded shadow-lg p-1 -mt-14'>Raz3r12#8553</span>
                     </a>
-                    <a href="https://twitter.com/skysstw" className="text-gray-400" target="_blank" rel="noopener noreferrer">
+                    <a href="Twitter Coming soon" className="text-gray-400" target="_blank" rel="noopener noreferrer">
                         <svg fill="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5"
                              viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <title>Twitter</title>
