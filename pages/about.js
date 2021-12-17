@@ -17,7 +17,7 @@ export default function About() {
                 <meta property="og:description" content="I want to succeed at running my business Chill Hosting and running my Minecraft server The Chill Realm" />
                 <meta property="og:url" content="https://raz3r12.xyz/about" />
                 <meta property="og:image" content="https://raz3r12.xyz/logo.jpg" />
-                <meta name="theme-color" content="#F43F5E" />
+                <meta name="theme-color" content="#09F3C8" />
                 <meta name="twitter:card" content="summary" />
                 <meta name="twitter:site" content="@Coming Soon" />
                 <meta name="twitter:title" content="Raz3r12. - About Me" />
