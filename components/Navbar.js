@@ -15,7 +15,7 @@ export default function Navbar() {
                 <div className="flex">
                     <Link href="/">
                         <a className="flex font-medium items-center mb-4 md:mb-0">
-                            <span className="text-2xl font-bold duration-200">Zackery.</span>
+                            <span className="text-2xl font-bold duration-200">Raz3r12.</span>
                         </a>
                     </Link>
                     <button
