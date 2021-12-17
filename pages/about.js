@@ -8,21 +8,21 @@ export default function About() {
         <div>
             <Head>
                 <meta charSet="UTF-8"/>
-                <title>Zackery. - About Me</title>
-                <meta name="description" content="I'VE OFFICIALLY BECAME YOUR BEST FRIEND!" />
-                <meta name="keywords" content="Music,Friends,Family,Singing,Stage,Besties,BestFriends,Personal" />
-                <meta name="author" content="Zackery." />
+                <title>Raz3r12. - About Me</title>
+                <meta name="description" content="I love making new friends" />
+                <meta name="keywords" content="Developer, Gaming, Traveling, Riding Bike, Music, Coding" />
+                <meta name="author" content="Raz3r12." />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="Zackery. - About me" />
-                <meta property="og:description" content="I'm trying my best to do everything I can in life." />
-                <meta property="og:url" content="https://zackeryjs.xyz/about" />
-                <meta property="og:image" content="https://zackeryjs.xyz/logo.jpg" />
+                <meta property="og:title" content="Raz3r12. - About me" />
+                <meta property="og:description" content="I want to succeed at running my business Chill Hosting and running my Minecraft server The Chill Realm" />
+                <meta property="og:url" content="https://raz3r12.xyz/about" />
+                <meta property="og:image" content="https://raz3r12.xyz/logo.jpg" />
                 <meta name="theme-color" content="#F43F5E" />
                 <meta name="twitter:card" content="summary" />
-                <meta name="twitter:site" content="@skysstw" />
-                <meta name="twitter:title" content="Zackery. - About Me" />
-                <meta name="twitter:description" content="Just your new best friend."/>
-                <meta name="twitter:image" content="https://zackeryjs.xyz/logo.jpg"/>
+                <meta name="twitter:site" content="@Coming Soon" />
+                <meta name="twitter:title" content="Raz3r12. - About Me" />
+                <meta name="twitter:description" content="I like meet new people and learn new things."/>
+                <meta name="twitter:image" content="https://raz3r12.xyz/logo.jpg"/>
             </Head>
 
             <div className="flex flex-col min-h-screen">
@@ -37,7 +37,9 @@ export default function About() {
                                 <div className="container lg:w-3/5 w-11/12 mx-auto mt-4">
                                     <div className="text-left md:text-justify space-y-6 text-lg font-medium text-gray-200">
                                         <p>
-                                            Hey, I'm Zackery - I am a young "highschooler" trying my best to pursue Content Creation and Music. It's always been my dream to be able to sing on a stage, and when I get every chance I have, whether may it be on a real stage, or even on my Twitch channel. I take my chances. Music has always been a relief in me for years, same thing with family and friends. I have 2 projects I am working on, ClumsyHosting and Electronomy eSports. Both are which, coming out in 2022. So please stay tuned for them :D
+                                            Hey, I'm Raz3r12 - I am 21, I love coding bots, developing minecraft servers. I love working for people.
+                                            
+                                            Links: Coming Soon
                                         </p>
                                     </div>
                                 </div>
