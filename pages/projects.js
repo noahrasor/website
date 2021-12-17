@@ -43,7 +43,7 @@ export default function Work() {
                                     <div className="absolute h-full w-full p-20 z-20">
                                         <div className="flex items-center justify-center h-full w-full p-4">
                                             <h1 className="md:text-6xl text-3xl font-bold text-center">
-                                                
+                                                Comming Soon!!
                                             </h1>
                                         </div>
                                     </div>
