@@ -8,21 +8,21 @@ export default function Home() {
     <div>
         <Head>
             <meta charSet="UTF-8"/>
-            <title>Zackery.</title>
+            <title>Raz3r12.</title>
             <meta name="description" content="I'VE OFFICIALLY BECAME YOUR BEST FRIEND!" />
-            <meta name="keywords" content="Music,Friends,Family,Singing,Stage,Besties,BestFriends,Personal" />
-            <meta name="author" content="Zackery" />
+            <meta name="keywords" content="Music,Friends,Family" />
+            <meta name="author" content="Raz3r12" />
             <link rel="icon" href="/favicon.ico" />
-            <meta property="og:title" content="Zackery." />
+            <meta property="og:title" content="Raz3r12." />
             <meta property="og:description" content="I'm trying my best to do everything I can in life." />
-            <meta property="og:url" content="https://zackeryjs.xyz/" />
-            <meta property="og:image" content="https://zackeryjs.xyz/logo.jpg" />
+            <meta property="og:url" content="https://raz3r12.xyz/" />
+            <meta property="og:image" content="https://raz3r12.xyz/logo.jpg" />
             <meta name="theme-color" content="#F43F5E" />
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:site" content="@skyystw" />
-            <meta name="twitter:title" content="Zackery." />
+            <meta name="twitter:site" content="@Coming Soon" />
+            <meta name="twitter:title" content="Raz3r12." />
             <meta name="twitter:description" content="Just your new best friend."/>
-            <meta name="twitter:image" content="https://zackeryjs.xyz/logo.jpg"/>
+            <meta name="twitter:image" content="https://Raz3r12.xyz/logo.jpg"/>
         </Head>
 
         <div className="flex flex-col min-h-screen">
@@ -32,10 +32,10 @@ export default function Home() {
                     <div className="container flex mx-auto justify-center">
                         <motion.div initial={{ opacity: 0 }} animate={{ opacity: [0, 1] }} transition={{ duration: 0.5 }}>
                             <h1 className="md:text-6xl text-3xl font-bold">
-                              Hi there, I'm <span className="text-rose-500">Zackery!</span>
+                              Hi there, I'm <span className="text-rose-500">Raz3r12!</span>
                             </h1>
                             <p className="text-gray-200 text-lg font-medium">
-                                your new Best Friend. :)
+                                Contact me if you want me as a worker :)
                             </p>
                         </motion.div>
                     </div>
