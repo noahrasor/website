@@ -37,7 +37,7 @@ export default function About() {
                                 <div className="container lg:w-3/5 w-11/12 mx-auto mt-4">
                                     <div className="text-left md:text-justify space-y-6 text-lg font-medium text-gray-200">
                                         <p>
-                                            Hey, I'm Raz3r12 - I am 21, I love coding bots, developing minecraft servers. I love working for people.
+                                            Hey, I'm Raz3r12 - I currently own two servers one being my business Chill Hosting and the other being my Minecraft server The Chill Realm. I have been doing this kind of stuff for 5 years, I am very good at what I do. If you are looking for someone to develop a minecraft server I'm the one.
                                         </p>
                                     </div>
                                 </div>
